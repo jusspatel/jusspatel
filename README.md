@@ -1,6 +1,5 @@
-### Hi there 👋, My name is Juss Patel !
-#### I am a regular high school student who codes for fun
-![I am a regular high school student who codes for fun]()
+![I am a regular high school student who codes for fun](https://github.com/jusspatel/jusspatel/blob/main/header.png)
+### I am a regular high school student who codes for fun
 
 On my account , you can find several repositories consisting of my pet projects mostly made in python . At least for now , you won't find anything serious here . Thanks for reading this  , please do check out my work and make sure to have a 🍕
 
