@@ -16,6 +16,4 @@ Skills: Python / Django / Tkinter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jusspatel&show_icons=true&theme=radical)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jusspatel&theme=radical)  
-
-
 ![Profile views](https://gpvc.arturio.dev/jusspatel)  
