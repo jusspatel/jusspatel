@@ -14,8 +14,8 @@ Skills: Python / Django / Tkinter
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jusspatel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/juss-patel-noob)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/generalzus)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jusspatel&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jusspatel)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jusspatel&show_icons=true&theme=radical)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jusspatel&theme=radical)  
 
 
 ![Profile views](https://gpvc.arturio.dev/jusspatel)  
