@@ -5,7 +5,7 @@ On my account , you can find several repositories consisting of my pet projects 
 
 Skills: Python / Django / Tkinter
 
-- 🔭 I’m currently working on A Tkinter Project 
+- 🔭 I’m currently working on A Python/Tkinter Project 
 - 🌱 I’m currently learning Python 
 - 🤔 I’m looking for help with GUI Development in Python 
 - 😄 Pronouns: He/Him 
