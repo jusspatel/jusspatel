@@ -3,9 +3,9 @@
 
 On my account , you can find several repositories consisting of my pet projects mostly made in python . At least for now , you won't find anything serious here . Thanks for reading this  , please do check out my work and make sure to have a 🍕
 
-Skills: Python / Django / Tkinter
+Skills: Python / Django / Tkinter / PyQT5
 
-- 🔭 I’m currently working on A Python/Tkinter Project 
+- 🔭 I’m currently working on A Python/PyQT5 Project 
 - 🌱 I’m currently learning Python 
 - 🤔 I’m looking for help with GUI Development in Python 
 - 😄 Pronouns: He/Him 
